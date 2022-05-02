@@ -43,7 +43,7 @@
 
 <p align="center">
 <a href="https://www.tanzimamin.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.tanzimamin.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/tanzimamin/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Tanzim%20Amin%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/tanzimamin/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Tanzim%20Amin%20-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/2ktanman_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-2ktanman__-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:tanzim.amin@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-tanzim.amin@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
