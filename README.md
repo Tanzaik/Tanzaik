@@ -33,7 +33,7 @@
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - 🔧 &nbsp;
-- ![Terminal](https://img.shields.io/badge/-Terminal-333333?style=flat&logo=windowsterminal)
+  ![Terminal](https://img.shields.io/badge/-Terminal-333333?style=flat&logo=windowsterminal)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Tableau](https://img.shields.io/badge/-Tableau-333333?style=flat&logo=tableau)
   ![JupyterLab](https://img.shields.io/badge/-JupyterLab-333333?style=flat&logo=jupyter)
