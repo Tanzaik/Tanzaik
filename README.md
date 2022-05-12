@@ -1,6 +1,6 @@
 <h2> Hey there! I'm Tanzim.</h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3> &nbsp;About Me 👨🏻‍💻 </h3>
 
  🤔 &nbsp; Intrigued in software development and possess a spectrum of knowledge in core software principles. 
  
