@@ -1,6 +1,6 @@
 <h2> Hey there! I'm Tanzim.</h2>
 
-<h3> &nbsp;About Me 👨🏻‍💻 </h3>
+<h3> &nbsp;About Me  👨🏻‍💻 </h3>
 
  🤔 &nbsp; Intrigued in software development and possess a spectrum of knowledge in core software principles. 
  
@@ -12,7 +12,7 @@
  
  📸 &nbsp; Pursuing Videography and Content Creation as side hustles.
 
-<h3> &nbsp;Tech Stack 🛠 </h3>
+<h3> &nbsp;Tech Stack  🛠 </h3>
 
   💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
@@ -51,7 +51,7 @@
    ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
 
 
-<h3> &nbsp;Connect with Me 🤝🏻 </h3>
+<h3> &nbsp;Connect with Me  🤝🏻 </h3>
 
 <p align="center">
 <a href="https://www.tanzimamin.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.tanzimamin.com-blue?style=flat-square&logo=google-chrome"></a>
