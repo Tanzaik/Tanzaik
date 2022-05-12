@@ -51,7 +51,7 @@
    ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
 
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<h3> &nbsp;Connect with Me 🤝🏻 </h3>
 
 <p align="center">
 <a href="https://www.tanzimamin.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.tanzimamin.com-blue?style=flat-square&logo=google-chrome"></a>
