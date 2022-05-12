@@ -31,7 +31,7 @@
    ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
    ![Three](https://img.shields.io/badge/-Three.js-333333?style=flat&logo=threedotjs)
    ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
-   !![Seaborn](https://img.shields.io/badge/-SeaBorn-333333?style=flat&logo=salesforce)
+   ![Seaborn](https://img.shields.io/badge/-SeaBorn-333333?style=flat&logo=salesforce)
   
    🛢 &nbsp;
    ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
