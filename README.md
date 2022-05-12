@@ -30,21 +30,24 @@
   ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
   ![Three](https://img.shields.io/badge/-Three.js-333333?style=flat&logo=threedotjs)
   ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
-  🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  🔧 &nbsp;
-  ![Terminal](https://img.shields.io/badge/-Terminal-333333?style=flat&logo=windowsterminal)
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Tableau](https://img.shields.io/badge/-Tableau-333333?style=flat&logo=tableau)
-  ![JupyterLab](https://img.shields.io/badge/-JupyterLab-333333?style=flat&logo=jupyter)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-  ![Excel](https://img.shields.io/badge/-Excel-333333?style=flat&logo=microsoftexcel)
-  🖥 &nbsp;
-  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-  ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
+  
+   🛢 &nbsp;
+   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+   
+   🔧 &nbsp;
+   ![Terminal](https://img.shields.io/badge/-Terminal-333333?style=flat&logo=windowsterminal)
+   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+   ![Tableau](https://img.shields.io/badge/-Tableau-333333?style=flat&logo=tableau)
+   ![JupyterLab](https://img.shields.io/badge/-JupyterLab-333333?style=flat&logo=jupyter)
+   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+   ![Excel](https://img.shields.io/badge/-Excel-333333?style=flat&logo=microsoftexcel)
+   
+   🖥 &nbsp;
+   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
+   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
+   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
 
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
