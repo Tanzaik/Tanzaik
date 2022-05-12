@@ -3,9 +3,13 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
  🤔 &nbsp; Intrigued in software development and possess a spectrum of knowledge in core software principles. 
+ 
  🎓 &nbsp; Studying Information Science & Data Analytics and minoring in Mathematics at San José State University.
+
  💼 &nbsp; Currently seeking opportunities in the realm of Data Analyst and Software Engineering.
+
  🌱 &nbsp; Learning more about Cybersecurity and Information Technology.
+ 
  📸 &nbsp; Pursuing Videography and Content Creation as side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
