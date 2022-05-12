@@ -12,16 +12,16 @@
  
  📸 &nbsp; Pursuing Videography and Content Creation as side hustles.
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3> &nbsp;Tech Stack 🛠 </h3>
 
-- 💻 &nbsp;
+  💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![LaTex](https://img.shields.io/badge/-LaTex-333333?style=flat&logo=latex)
   ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sqlite)
   ![MATLAB](https://img.shields.io/badge/-MATLAB-333333?style=flat&logo=xampp)
-- 🌐 &nbsp;
+  🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -30,18 +30,18 @@
   ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
   ![Three](https://img.shields.io/badge/-Three.js-333333?style=flat&logo=threedotjs)
   ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
-- 🛢 &nbsp;
+  🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-- 🔧 &nbsp;
+  🔧 &nbsp;
   ![Terminal](https://img.shields.io/badge/-Terminal-333333?style=flat&logo=windowsterminal)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Tableau](https://img.shields.io/badge/-Tableau-333333?style=flat&logo=tableau)
   ![JupyterLab](https://img.shields.io/badge/-JupyterLab-333333?style=flat&logo=jupyter)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
   ![Excel](https://img.shields.io/badge/-Excel-333333?style=flat&logo=microsoftexcel)
-- 🖥 &nbsp;
+  🖥 &nbsp;
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
