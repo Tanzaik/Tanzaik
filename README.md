@@ -30,7 +30,6 @@
    ![Next](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=nextdotjs)
    ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
    ![Three](https://img.shields.io/badge/-Three.js-333333?style=flat&logo=threedotjs)
-   ![OutSystems](https://img.shields.io/badge/-OutSystems-333333?style=flat&logo=target)
    ![Seaborn](https://img.shields.io/badge/-Seaborn-333333?style=flat&logo=salesforce)
   
    🛢 &nbsp;
@@ -43,7 +42,7 @@
    ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
    ![Tableau](https://img.shields.io/badge/-Tableau-333333?style=flat&logo=tableau)
    ![JupyterLab](https://img.shields.io/badge/-JupyterLab-333333?style=flat&logo=jupyter)
-   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+   ![OutSystems](https://img.shields.io/badge/-OutSystems-333333?style=flat&logo=target)
    ![Excel](https://img.shields.io/badge/-Excel-333333?style=flat&logo=microsoftexcel)
    
    🖥 &nbsp;
