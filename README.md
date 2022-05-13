@@ -30,7 +30,7 @@
    ![Next](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=nextdotjs)
    ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
    ![Three](https://img.shields.io/badge/-Three.js-333333?style=flat&logo=threedotjs)
-   ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
+   ![OutSystems](https://img.shields.io/badge/-OutSystems-333333?style=flat&logo=target)
    ![Seaborn](https://img.shields.io/badge/-Seaborn-333333?style=flat&logo=salesforce)
   
    🛢 &nbsp;
