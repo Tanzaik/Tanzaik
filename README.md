@@ -57,6 +57,6 @@
 <p align="center">
 <a href="https://www.lifeoftan.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.LifeOfTan.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/tanzimamin/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Tanzim%20Amin%20-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/2ktanman/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-2ktanman_-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/tanthetalisman/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-tanthetalisman_-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:tanzim.amin@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-tanzim.amin@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
