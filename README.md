@@ -4,11 +4,11 @@
 
  🤔 &nbsp; Intrigued in software development and possess a spectrum of knowledge in core software principles. 
  
- 🎓 &nbsp; Studying Information Science & Data Analytics at San José State University.
+ 🎓 &nbsp; Studying at UC Berkeley
 
- 💼 &nbsp; Currently seeking opportunities in the realm of Data Analyst and Software Engineering.
+ 💼 &nbsp; Currently seeking opportunities in the realm of Software Engineering.
 
- 🌱 &nbsp; Learning more about Cybersecurity and Information Technology.
+ 🌱 &nbsp; Learning more about Artificial Intelligence and Cloud Computing.
  
  📸 &nbsp; Pursuing Videography and Content Creation as side hustles.
 
