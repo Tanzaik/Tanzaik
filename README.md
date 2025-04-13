@@ -1,12 +1,10 @@
-<h2> Hey there! I'm Tanzim.</h2>
+<h2> Hi👋 I'm Tanzim </h2>
 
 <h3> &nbsp;About Me  👨🏻‍💻 </h3>
 
- 🤔 &nbsp; Intrigued in software development and possess a spectrum of knowledge in core software principles. 
- 
- 🎓 &nbsp; Studying at UC Berkeley
+ 🤔 &nbsp; I am currently a master's student at UC Berkeley, intrigued in software development and possess a spectrum of knowledge in core software principles. 
 
- 💼 &nbsp; Currently seeking opportunities in the realm of Software Engineering.
+ 💼 &nbsp; Currently exploring opportunities.
 
  🌱 &nbsp; Learning more about Artificial Intelligence and Cloud Computing.
  
