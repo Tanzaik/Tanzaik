@@ -1,4 +1,4 @@
-<h2> Hi👋 I'm Tanzim </h2>
+<h1 align="center">Hi👋 I'm Tanzim </h1>
 
 <h3> &nbsp;About Me  👨🏻‍💻 </h3>
 
