@@ -2,13 +2,11 @@
 
 <h3> &nbsp;About Me  👨🏻‍💻 </h3>
 
- 🤔 &nbsp; I am currently a master's student at UC Berkeley, intrigued in software development and possess a spectrum of knowledge in core software principles. 
+ 🤔 &nbsp; I’m a master’s student at UC Berkeley intrigued by building intelligent systems that scale.
 
- 💼 &nbsp; Currently exploring opportunities.
-
- 🌱 &nbsp; Learning more about Artificial Intelligence and Cloud Computing.
+ 💼 &nbsp; Exploring Artificial Intelligence and Cloud Computing.
  
- 📸 &nbsp; Pursuing Videography and Content Creation as side hustles.
+ 📋 &nbsp; Passionate about designing scalable software and applying AI to solve real-world problems.
 
 <h3> &nbsp;Tech Stack  🛠 </h3>
 
