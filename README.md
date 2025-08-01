@@ -2,7 +2,7 @@
 
 <h3> &nbsp;About Me  👨🏻‍💻 </h3>
 
- 🤔 &nbsp; I’m a master’s student at UC Berkeley intrigued by building intelligent systems that scale.
+ 🤔 &nbsp; I’m a master’s student at UCLA intrigued by building intelligent systems that scale.
 
  💼 &nbsp; Exploring Artificial Intelligence and Cloud Computing.
  
